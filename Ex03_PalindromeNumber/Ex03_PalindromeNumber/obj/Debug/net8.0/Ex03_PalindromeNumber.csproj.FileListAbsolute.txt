@@ -1,0 +1,14 @@
+D:\C_Sharp\LeetCode\Ex03_PalindromeNumber\Ex03_PalindromeNumber\bin\Debug\net8.0\Ex03_PalindromeNumber.exe
+D:\C_Sharp\LeetCode\Ex03_PalindromeNumber\Ex03_PalindromeNumber\bin\Debug\net8.0\Ex03_PalindromeNumber.deps.json
+D:\C_Sharp\LeetCode\Ex03_PalindromeNumber\Ex03_PalindromeNumber\bin\Debug\net8.0\Ex03_PalindromeNumber.runtimeconfig.json
+D:\C_Sharp\LeetCode\Ex03_PalindromeNumber\Ex03_PalindromeNumber\bin\Debug\net8.0\Ex03_PalindromeNumber.dll
+D:\C_Sharp\LeetCode\Ex03_PalindromeNumber\Ex03_PalindromeNumber\bin\Debug\net8.0\Ex03_PalindromeNumber.pdb
+D:\C_Sharp\LeetCode\Ex03_PalindromeNumber\Ex03_PalindromeNumber\obj\Debug\net8.0\Ex03_PalindromeNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_Sharp\LeetCode\Ex03_PalindromeNumber\Ex03_PalindromeNumber\obj\Debug\net8.0\Ex03_PalindromeNumber.AssemblyInfoInputs.cache
+D:\C_Sharp\LeetCode\Ex03_PalindromeNumber\Ex03_PalindromeNumber\obj\Debug\net8.0\Ex03_PalindromeNumber.AssemblyInfo.cs
+D:\C_Sharp\LeetCode\Ex03_PalindromeNumber\Ex03_PalindromeNumber\obj\Debug\net8.0\Ex03_PalindromeNumber.csproj.CoreCompileInputs.cache
+D:\C_Sharp\LeetCode\Ex03_PalindromeNumber\Ex03_PalindromeNumber\obj\Debug\net8.0\Ex03_PalindromeNumber.dll
+D:\C_Sharp\LeetCode\Ex03_PalindromeNumber\Ex03_PalindromeNumber\obj\Debug\net8.0\refint\Ex03_PalindromeNumber.dll
+D:\C_Sharp\LeetCode\Ex03_PalindromeNumber\Ex03_PalindromeNumber\obj\Debug\net8.0\Ex03_PalindromeNumber.pdb
+D:\C_Sharp\LeetCode\Ex03_PalindromeNumber\Ex03_PalindromeNumber\obj\Debug\net8.0\Ex03_PalindromeNumber.genruntimeconfig.cache
+D:\C_Sharp\LeetCode\Ex03_PalindromeNumber\Ex03_PalindromeNumber\obj\Debug\net8.0\ref\Ex03_PalindromeNumber.dll
